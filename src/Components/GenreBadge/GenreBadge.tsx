@@ -8,7 +8,7 @@ const GenreBadge = () => {
     }, []);
     return (
         <div>
-            <div className={css.inside}>
+            <div className={css.geners}>
                 <ul>
                     <h2>Choose genre</h2>
 
